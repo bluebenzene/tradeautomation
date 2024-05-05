@@ -136,7 +136,7 @@ export default function Broker() {
             <header className="absolute top-0 left-0 right-0 flex justify-between items-center px-10 py-5">
                 <h1 className="text-3xl font-bold">TradingViewAlert</h1>
                 <nav>
-                    <Link href="/setup" className="mr-4 text-lg font-semibold bg-gray-800 hover:bg-gray-700 text-white py-2 px-4 rounded transition ease-in-out duration-150">Get ApiKey</Link>
+                    <Link href="/setup" className="mr-4 text-lg font-semibold bg-gray-800 hover:bg-gray-700 text-white py-2 px-4 rounded transition ease-in-out duration-150">Setup</Link>
                 </nav>
             </header>
 
