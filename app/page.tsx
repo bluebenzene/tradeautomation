@@ -134,7 +134,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Metatrader4{" "}
+            Bybit{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
             </span>
           </h2>
@@ -149,12 +149,12 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Metatrader 5{" "}
+            Finvasia{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Metatrader 5 alert placement from tradingview
+            Place order in Finvasia from Tradingview
           </p>
         </a>
 
@@ -164,12 +164,12 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            Crypto Exchanges{" "}
+            Alice Blue{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-           Place order in our supported Crypto Exchanges
+           Place order in our supported Indian Exchanges
           </p>
         </a>
 
@@ -179,12 +179,12 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-2xl font-semibold">
-            TradFi{" "}
+            AngleOne{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            place order in some tradfi accounts
+            Place order in AngleOne from Tradingview
           </p>
         </a>
 
